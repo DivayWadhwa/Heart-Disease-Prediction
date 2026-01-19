@@ -1,5 +1,3 @@
 # Heart-Disease-Predictor
 
---- 
-![Uploading image.png…]()
----
+This project is a machine learning–based predictive system designed to estimate the likelihood of heart disease in individuals based on clinical and lifestyle features. The workflow includes data preprocessing, exploratory data analysis, model training, performance evaluation, and deployment components. The dataset is stored in dataset.csv, while the final trained model is saved as model.pkl. Model development and experimentation are documented inside the Jupyter Notebook file.The project also contains an application script (inside the app folder) that allows real-time predictions using the trained model, enabling interactive testing and deployment through a simple UI or API. Required dependencies for replication and deployment are listed in requirements.txt, and general usage instructions are provided in the README.
